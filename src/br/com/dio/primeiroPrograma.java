@@ -10,9 +10,6 @@ public class primeiroPrograma {
 		
 		System.out.println(gato);
 		System.out.println(livros);
-		/*int a=2, b=3;
-		System.out.println("Hello World"+(a+b));
-		*/
 	}
 	
 }
